@@ -1,0 +1,64 @@
+*{
+	margin:0 auto;
+	padding:0;
+	border:0;
+	font-family:宋体；
+	font-size:12px;
+	color:#522a06;
+}
+li{
+
+	text-align:left;
+	list-style-position:inside;
+	list-style-type: none;
+}
+a:link{
+	text-decoration:none;
+	color:#522a06;
+}
+a:hover{
+	text-decoration:underline;
+}
+.daohangkuang{
+	background:url(../images/timg.jpg);
+	background-position: center;
+	height:40px;
+}
+.daohangneirong{
+	width:1000px;
+	height:40px;
+	background:none;
+	background-position: center;
+}
+.chaolianjie{ 
+	margin-top: 8px;
+	float:left;
+	width:700px;
+	color:#fff;
+	height:32px;
+}
+.chaolianjie a{
+	margin:0px 5px 0px 5px;
+	font-weight: bolder;
+	color:#fff;
+	height:40px;
+	font-size: 12px;
+
+}
+.chaolianjie a:hover{
+	color:#;
+	text-decoration:none;
+}
+.logo{
+	background-position:left;
+	height:auto;
+	width:20%;
+	position: left;
+	background:url(../images/timg.jpg);
+}
+.logo img{
+	margin:38px 0px 0px 25px;
+	width: 20%;
+	height: auto;
+	position: left;
+}
